@@ -1,38 +1,62 @@
 # **Takım İsmi**
 
-Takım X
+U58 Unity Takımı
 
-# Ürün İle İlgili Bilgiler
+## Takım Üyeleri
 
-## Takım Elemanları
+-	***Aras Berk Yıldırım***  – Product Owner
+-	***Aylin Ece Aygül*** – Scrum Master
+-	***Ahmet Akçal*** - Developer
+-	***Aleyna Ersoy*** - Developer
+-	***Aşkın Gündüz*** - Developer
 
-- John Doe: Product Owner
-- Jane Doe: Scrum Master
-- Atıl Samancıoğlu: Team Member/Developer
-
-## Ürün İsmi
+## Oyun İsmi
 
 --Movie App--
 
-## Ürün Açıklaması
+## Oyun Açıklaması
 
 - Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere daha kolay karar vermesini sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda Netflix, Prime vb. platformlarda yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
 
-## Ürün Özellikleri
+## Oyun Özellikleri
 
-- Filmleri türüne göre ayırma
-- Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
-- IMDB ve Rotten Tomatoes puanlarını gösterme
-- Netflix'te ve Prime'da bulunurluğunu gösterme
+- 3D
+- 
+- 
+- 
 
 ## Hedef Kitle
 
-- Netflix kullanıcıları
-- Prime kullanıcıları
-- Sinema severler
-- Dizi severler
-- 15 - 65 yaş arası kullanıcılar
+- 
+- 
+- 
+- 
+- 
 
 ## Product Backlog URL
 
-[Trello Backlog Board] (https://trello.com/b/4T7hiQ06/sprint-1)
+[U58 Unity Trello Backlog Board] (https://trello.com/b/4T7hiQ06/sprint-1)
+
+# **SPRINT 1**
+
+- **Sprint içinde tamamlanması tahmin edilen puan**:
+- **Puan tamamlama mantığı**:
+- **Daily Scrum**: Daily Scrum toplantılarının Discord ve Whatsapp üzerinden yapılmasına karar verilmiştir. Discord'da haftada birkaç gün toplantılar yapılmıştır.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  - **Ürün Durumu**: Ekran görüntüleri:
+  
