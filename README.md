@@ -21,7 +21,7 @@ U58 Unity Takımı
 ## Oyun Özellikleri
 
 - 3D
-- 
+- Açık Dünya
 - 
 - 
 
