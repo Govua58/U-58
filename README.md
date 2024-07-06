@@ -32,7 +32,7 @@ U58 Unity Takımı
 - Strateji ve Planlama
 - 
 - 
-- 7+
+- 13+
 
 ## Product Backlog URL
 
