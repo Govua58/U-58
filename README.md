@@ -23,6 +23,7 @@ U58 Unity Takımı
 - 3D
 - Açık Dünya
 - First-Person Shooter
+- Platformer Ögeleri
 - 
 
 ## Hedef Kitle
