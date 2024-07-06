@@ -60,3 +60,6 @@ U58 Unity Takımı
     - Sprint Review Katılımcıları: Aras Berk Yıldırım, Aylin Ece Aygül, Ahmet Akçal, Aleyna Ersoy, Aşkın Gündüz.
 
 - **Sprint Retrospective:**
+    -
+    -
+    -
