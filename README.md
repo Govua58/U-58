@@ -38,7 +38,7 @@ U58 Unity Takımı
 [U58 Trello Backlog Board](https://trello.com/b/4T7hiQ06/sprint-1)
 
 # **SPRINT 1**
-
+- **Sprint Notları**:
 - **Sprint içinde tamamlanması tahmin edilen puan**:
 - **Puan tamamlama mantığı**:
 - **Backlog düzeni ve Story seçimleri**:
