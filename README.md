@@ -55,7 +55,7 @@ U58 Unity Takımı
   ![4](https://github.com/Govua58/U-58/assets/173603073/0602a2c7-d62a-4ddf-a2d4-b651a6438aa5)
   
 - **Sprint Review**:
-- Alınan Kararlar:
-- Sprint Review Katılımcıları: Aras Berk Yıldırım, Aylin Ece Aygül, Ahmet Akçal, Aleyna Ersoy, Aşkın Gündüz.
+    - Alınan Kararlar:
+    - Sprint Review Katılımcıları: Aras Berk Yıldırım, Aylin Ece Aygül, Ahmet Akçal, Aleyna Ersoy, Aşkın Gündüz.
 
 - **Sprint Retrospective:**
