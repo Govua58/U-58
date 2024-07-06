@@ -41,10 +41,12 @@ U58 Unity Takımı
 
 - **Sprint içinde tamamlanması tahmin edilen puan**:
 - **Puan tamamlama mantığı**:
+- **Backlog düzeni ve Story seçimleri**:
 - **Daily Scrum**: Daily Scrum toplantılarının Discord ve Whatsapp üzerinden yapılmasına karar verilmiştir. Discord'da haftada birkaç gün toplantılar yapılmıştır.
     [Daily Scrum Konuşmaları ve Toplantı Görüntüleri](https://1drv.ms/f/s!AtbTsuS_or4ybeMU0hdxjEO0nVg)
     [Grup Asistanı ile Görüşmeler](https://1drv.ms/f/s!AtbTsuS_or4yd1ch9V3hgB6YXZ0)
-
+- **Sprint 1 board update**: Sprint Board Screenshot:
+  
 - **Ürün Durumu**: Ekran görüntüleri:
   
   ![1](https://github.com/Govua58/U-58/assets/173603073/df63ceae-ac1c-473e-9d14-d20b1603042f)
@@ -52,3 +54,6 @@ U58 Unity Takımı
   ![3](https://github.com/Govua58/U-58/assets/173603073/85d99bac-5272-4cda-8f3b-2873d286745a)
   ![4](https://github.com/Govua58/U-58/assets/173603073/0602a2c7-d62a-4ddf-a2d4-b651a6438aa5)
   
+- **Sprint Review**:
+
+- **Sprint Retrospective:**
