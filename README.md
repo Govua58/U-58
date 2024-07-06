@@ -4,11 +4,11 @@ U58 Unity Takımı
 
 ## Takım Üyeleri
 
--	***Aras Berk Yıldırım***  – Product Owner
--	***Aylin Ece Aygül*** – Scrum Master
--	***Ahmet Akçal*** - Developer
--	***Aleyna Ersoy*** - Developer
--	***Aşkın Gündüz*** - Developer
+-	**Aras Berk Yıldırım**  – *Product Owner*
+-	**Aylin Ece Aygül** – *Scrum Master*
+-	**Ahmet Akçal** - *Developer*
+-	**Aleyna Ersoy** - *Developer*
+-	**Aşkın Gündüz** - *Developer*
 
 ## Oyun İsmi
 
@@ -43,7 +43,7 @@ U58 Unity Takımı
 - **Puan tamamlama mantığı**:
 - **Backlog düzeni ve Story seçimleri**:
 - **Daily Scrum**: Daily Scrum görüşmelerinin başta Discord daha sonrasında Whatsapp üzerinden yürütülmesine karar verilmiştir. Discord'da haftada birkaç gün olmak üzere düzenli toplantılar yapılmıştır.
-    - [Daily Scrum Konuşmaları ve Toplantı Görüntüleri](https://1drv.ms/f/s!AtbTsuS_or4ybeMU0hdxjEO0nVg)
+    - [Daily Scrum ve Toplantı Görüntüleri](https://1drv.ms/f/s!AtbTsuS_or4ybeMU0hdxjEO0nVg)
     - [Grup Asistanı ile Görüşmeler](https://1drv.ms/f/s!AtbTsuS_or4yd1ch9V3hgB6YXZ0)
 - **Sprint 1 board update**: Sprint Board Screenshot:
   
