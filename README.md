@@ -35,7 +35,7 @@ U58 Unity Takımı
 
 ## Product Backlog URL
 
-[U58 Unity Trello Backlog Board](https://trello.com/b/4T7hiQ06/sprint-1)
+[U58 Trello Backlog Board](https://trello.com/b/4T7hiQ06/sprint-1)
 
 # **SPRINT 1**
 
