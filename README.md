@@ -42,8 +42,8 @@ U58 Unity Takımı
 - **Sprint içinde tamamlanması tahmin edilen puan**:
 - **Puan tamamlama mantığı**:
 - **Daily Scrum**: Daily Scrum toplantılarının Discord ve Whatsapp üzerinden yapılmasına karar verilmiştir. Discord'da haftada birkaç gün toplantılar yapılmıştır.
-  [Daily Scrum Konuşmaları ve Toplantı Görüntüleri](https://1drv.ms/f/s!AtbTsuS_or4ybeMU0hdxjEO0nVg)
-  [Grup Asistanı ile Görüşmeler](https://1drv.ms/f/s!AtbTsuS_or4yd1ch9V3hgB6YXZ0)
+  -[Daily Scrum Konuşmaları ve Toplantı Görüntüleri](https://1drv.ms/f/s!AtbTsuS_or4ybeMU0hdxjEO0nVg)
+  -[Grup Asistanı ile Görüşmeler](https://1drv.ms/f/s!AtbTsuS_or4yd1ch9V3hgB6YXZ0)
 
 - **Ürün Durumu**: Ekran görüntüleri:
   
