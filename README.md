@@ -43,22 +43,7 @@ U58 Unity Takımı
 - **Puan tamamlama mantığı**:
 - **Daily Scrum**: Daily Scrum toplantılarının Discord ve Whatsapp üzerinden yapılmasına karar verilmiştir. Discord'da haftada birkaç gün toplantılar yapılmıştır.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  - **Ürün Durumu**: Ekran görüntüleri:
+- **Ürün Durumu**: Ekran görüntüleri:
   
   ![1](https://github.com/Govua58/U-58/assets/173603073/df63ceae-ac1c-473e-9d14-d20b1603042f)
   ![2](https://github.com/Govua58/U-58/assets/173603073/fe72cae0-fc4f-42af-8a0f-0691bb19e959)
