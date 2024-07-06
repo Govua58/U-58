@@ -12,11 +12,11 @@ U58 Unity Takımı
 
 ## Oyun İsmi
 
---Movie App--
+
 
 ## Oyun Açıklaması
 
-- Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere daha kolay karar vermesini sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda Netflix, Prime vb. platformlarda yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
+- 
 
 ## Oyun Özellikleri
 
@@ -35,7 +35,7 @@ U58 Unity Takımı
 
 ## Product Backlog URL
 
-[U58 Unity Trello Backlog Board] (https://trello.com/b/4T7hiQ06/sprint-1)
+[U58 Unity Trello Backlog Board](https://trello.com/b/4T7hiQ06/sprint-1)
 
 # **SPRINT 1**
 
