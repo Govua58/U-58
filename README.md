@@ -16,7 +16,7 @@ U58 Unity Takımı
 
 ## Oyun Açıklaması
 
-- 
+Zenginlik ve refah peşinde koşan ve bir paralı asker olan kahramanımız, yeni fırsatlar bulmak için geldiği şehirde kısa bir süre içinde şehirde nüfuz sahibi olan baş tapınak rahibinden oldukça önemli bir görev alır ve bu aldığı görev kaderini tamamı ile değiştirecektir. En başta kendisi olmak üzere herkesin kaderini eline alan kahramanımız bu zorlukların üstesinden gelip para kazanmak için geldiği bu şehirde bir paralı askerden fazlası mı olacak? Yoksa asla hatırlanmayacak bir iskelet mi?
 
 ## Oyun Özellikleri
 
@@ -45,6 +45,8 @@ U58 Unity Takımı
     - [Daily Scrum ve Toplantı Görüntüleri](https://1drv.ms/f/s!AtbTsuS_or4ybeMU0hdxjEO0nVg)
     - [Takım Asistanı ile Görüşmeler](https://1drv.ms/f/s!AtbTsuS_or4yd1ch9V3hgB6YXZ0)
 - **Sprint 1 board update**: Sprint Board Screenshot:
+    ![Trello 1](https://github.com/Govua58/U-58/assets/173603073/c10af6f8-7227-4061-a6b6-bcd30b404099)
+    ![Trello 2](https://github.com/Govua58/U-58/assets/173603073/449aff1b-77ca-4c0b-8027-23ebaa3acdc7)
   
 - **Ürün Durumu**: Ekran görüntüleri:
   
@@ -54,10 +56,10 @@ U58 Unity Takımı
   ![4](https://github.com/Govua58/U-58/assets/173603073/0602a2c7-d62a-4ddf-a2d4-b651a6438aa5)
   
 - **Sprint Review**:
-    - Alınan Kararlar:
+    - Alınan Kararlar: WhatsApp üzerinden yürütülen daily scrumlarda daha aktif olunmasına ve toplantı gün-saatlerinin netleştirilmesi gerektiğine karar verilmiştir.
     - Sprint Review Katılımcıları: Aras Berk Yıldırım, Aylin Ece Aygül, Ahmet Akçal, Aleyna Ersoy, Aşkın Gündüz.
 
 - **Sprint Retrospective:**
-    -
-    -
-    -
+    - Sprint 2'de ilk olarak oyun ismine karar verilecektir.
+    - Sprint 2'de yoğun bir çalışma temposu edinilecektir.
+    - Tahmin puanları gözden geçirilecek ve görev dağılımı tekrar düzenlenecektir.
