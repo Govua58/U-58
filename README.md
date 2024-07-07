@@ -38,7 +38,7 @@ Zenginlik ve refah peşinde koşan ve bir paralı asker olan kahramanımız, yen
 [U58 Trello Backlog Board](https://trello.com/b/4T7hiQ06/sprint-1)
 
 # **SPRINT 1**
-- **Sprint Notları**: 27.06.24 tarihinde oyun fikri ve özelliklerine karar verildi. Planlama ve görev atamaları yapıldı, proje yönetim aracı olarak Trello tercih edildi.
+- **Sprint Notları**: 28.06.24 tarihinde oyun fikri ve özelliklerine karar verildi. Planlama ve görev atamaları yapıldı, proje yönetim aracı olarak Trello tercih edildi.
 - **Sprint içinde tamamlanması tahmin edilen puan**: 15 puan
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 60 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 15 puan ile başlaması gerektiğine karar verildi ve hedefe ulaşıldı.
 - **Daily Scrum**: Daily Scrum görüşmelerinin başta Discord daha sonrasında WhatsApp üzerinden yürütülmesine karar verilmiştir. Discord'da haftada birkaç gün olmak üzere düzenli toplantılar yapılmıştır.
