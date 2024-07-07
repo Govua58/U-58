@@ -45,6 +45,7 @@ Zenginlik ve refah peşinde koşan ve bir paralı asker olan kahramanımız, yen
     - [Daily Scrum ve Toplantı Görüntüleri](https://1drv.ms/f/s!AtbTsuS_or4ybeMU0hdxjEO0nVg)
     - [Takım Asistanı ile Görüşmeler](https://1drv.ms/f/s!AtbTsuS_or4yd1ch9V3hgB6YXZ0)
 - **Sprint 1 board update**: Sprint Board Screenshot:
+  
     ![Trello 1](https://github.com/Govua58/U-58/assets/173603073/c10af6f8-7227-4061-a6b6-bcd30b404099)
     ![Trello 2](https://github.com/Govua58/U-58/assets/173603073/449aff1b-77ca-4c0b-8027-23ebaa3acdc7)
   
