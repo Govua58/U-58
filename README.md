@@ -28,8 +28,8 @@ U58 Unity Takımı
 ## Hedef Kitle
 
 - Macera ve Keşif Sevenler
-- Strateji ve Planlama Severler
-- Hikaye Tabanlı Oyun Severler
+- Strateji ve Planlama Sevenler
+- Hikaye Tabanlı Oyun Sevenler
 - PC Oyuncuları
 - 13+
 
