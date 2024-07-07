@@ -41,7 +41,6 @@ U58 Unity Takımı
 - **Sprint Notları**: 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 15 puan
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 60 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 15 puan ile başlaması gerektiğine karar verildi ve hedefe ulaşıldı.
-- **Backlog düzeni ve Story seçimleri**: 
 - **Daily Scrum**: Daily Scrum görüşmelerinin başta Discord daha sonrasında WhatsApp üzerinden yürütülmesine karar verilmiştir. Discord'da haftada birkaç gün olmak üzere düzenli toplantılar yapılmıştır.
     - [Daily Scrum ve Toplantı Görüntüleri](https://1drv.ms/f/s!AtbTsuS_or4ybeMU0hdxjEO0nVg)
     - [Takım Asistanı ile Görüşmeler](https://1drv.ms/f/s!AtbTsuS_or4yd1ch9V3hgB6YXZ0)
