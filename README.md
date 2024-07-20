@@ -79,6 +79,21 @@ Zenginlik ve refah peşinde koşan ve bir paralı asker olan kahramanımız, yen
 
 - **Ürün Durumu**: Ekran görüntüleri:
 
-- **Sprint Review**: 
+    ![Arena 1](https://github.com/user-attachments/assets/8203df21-07d9-4fa7-8ff7-8e196725ea12)
+    ![Arena 2](https://github.com/user-attachments/assets/3ce12c26-02b1-4782-a619-f9303b939683)
+    ![Arena 3](https://github.com/user-attachments/assets/d6373760-8c50-4c79-8db9-2deadb7f10aa)
 
+- **Sprint Review**:
+    - Oyun ismi belirlenmiştir.
+    - Puan tamamlama mantığı netleştirilmiştir.
+    - Portal tasarımları tamamlanmıştır.
+    - 1. sprintte tamamlanan Hub çalışmasının revize edilmesine karar verilmiştir.
+    - Bir sonraki sprint için hangi görevlerin önceliklendirilmesi gerektiğine ve yeni görev dağılımı yapılmasına karar verilmiştir. 
+    - Sprint Review Katılımcıları: Aras Berk Yıldırım, Aylin Ece Aygül, Ahmet Akçal, Aleyna Ersoy, Aşkın Gündüz.
+      
 - **Sprint Retrospective:**
+    - Tamamlanmış çalışmaların birleştirilmesi 3. Sprint'e kalmıştır.
+    - Eksik NPC'ler ve oyun mekanikleri tamamlanarak oyuna entegre edilmesi önceliklendirilecektir.
+    - Oyun arayüzü çalışmaları ve harita tasarımı tamamlanacaktır.
+    - Müzik, efektler ve diyaloglar gibi ses bileşenleri oyuna entegre edilecektir.
+    
