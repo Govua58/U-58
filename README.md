@@ -35,7 +35,7 @@ Zenginlik ve refah peşinde koşan ve bir paralı asker olan kahramanımız, yen
 
 ## Product Backlog URL
 
-[U58 Trello Backlog Board](https://trello.com/b/4T7hiQ06/sprint-1)
+[U58 Trello Backlog Board](https://trello.com/w/usercalismaalani43729130))
 
 # **Sprint 1**
 - **Sprint Notları**: 28.06.24 tarihinde oyun fikri ve özelliklerine karar verildi. Planlama ve görev atamaları yapıldı, proje yönetim aracı olarak Trello tercih edildi.
@@ -75,7 +75,7 @@ Zenginlik ve refah peşinde koşan ve bir paralı asker olan kahramanımız, yen
 - **Daily Scrum**: Günlük görüşmeler WhatsApp üzerinden sağlanmıştır. Ekip toplantıları haftada birkaç gün olmak üzere Discord üzerinden yapılmaya devam edilmiştir.
   [Sprint 2 - Daily Scrum ve Toplantı Görüntüleri](https://1drv.ms/f/s!AtbTsuS_or4ygQSVac4ir-Nzr5TX)
 
-- **Sprint 2 board update**:
+- **Sprint 2 board update**: Sprint Board Screenshot: [Backlog 2](https://trello.com/b/6R40mAMw/sprint-2)
 
 - **Ürün Durumu**: Ekran görüntüleri:
 
