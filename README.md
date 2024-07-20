@@ -77,11 +77,13 @@ Zenginlik ve refah peşinde koşan ve bir paralı asker olan kahramanımız, yen
 - **Sprint 2 board update**: Sprint Board Screenshot: [Backlog 2](https://trello.com/b/6R40mAMw/sprint-2)
 
 - **Ürün Durumu**: Ekran görüntüleri:
+  
     ![A4](https://github.com/user-attachments/assets/30de33c0-edfd-45de-9e38-81c8d9a82cc9)
     ![Arena 1](https://github.com/user-attachments/assets/8203df21-07d9-4fa7-8ff7-8e196725ea12)
     ![Arena 2](https://github.com/user-attachments/assets/3ce12c26-02b1-4782-a619-f9303b939683)
     ![Arena 3](https://github.com/user-attachments/assets/d6373760-8c50-4c79-8db9-2deadb7f10aa)
-    https://github.com/user-attachments/assets/0df62111-39f6-4896-9a54-0633d4da7031
+  
+    https://github.com/user-attachments/assets/062a7552-bc56-481c-80e4-44a920a00828
 
 - **Sprint Review**:
     - Oyun ismi belirlenmiştir.
