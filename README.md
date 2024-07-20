@@ -67,11 +67,18 @@ Zenginlik ve refah peşinde koşan ve bir paralı asker olan kahramanımız, yen
 
 # **Sprint 2**
 - **Sprint Notları**: Öncelikli olarak oyun ismine karar verilecektir ve puan tamamlama mantığı netleştirilecektir. Bu sprintin odağı portal tasarımlarının bitirilmesi ve oyun mekaniklerinin belirlenmesi olarak planlanmıştır.
+  
 - **Sprint içinde tamamlanması tahmin edilen puan**:
+  
 - **Puan tamamlama mantığı**:
+  
 - **Daily Scrum**: Günlük görüşmeler WhatsApp üzerinden sağlanmıştır. Ekip toplantıları haftada birkaç gün olmak üzere Discord üzerinden yapılmaya devam edilmiştir.
-  [Daily Scrum ve Toplantı Görüntüleri](https://1drv.ms/f/s!AtbTsuS_or4ygQSVac4ir-Nzr5TX)
+  [Sprint 2 - Daily Scrum ve Toplantı Görüntüleri](https://1drv.ms/f/s!AtbTsuS_or4ygQSVac4ir-Nzr5TX)
+
 - **Sprint 2 board update**:
+
 - **Ürün Durumu**: Ekran görüntüleri:
+
 - **Sprint Review**: 
+
 - **Sprint Retrospective:**
