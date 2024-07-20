@@ -35,7 +35,7 @@ Zenginlik ve refah peşinde koşan ve bir paralı asker olan kahramanımız, yen
 
 ## Product Backlog URL
 
-[U58 Trello Backlog Board](https://trello.com/w/usercalismaalani43729130))
+[U58 Trello Backlog Board](https://trello.com/w/usercalismaalani43729130)
 
 # **Sprint 1**
 - **Sprint Notları**: 28.06.24 tarihinde oyun fikri ve özelliklerine karar verildi. Planlama ve görev atamaları yapıldı, proje yönetim aracı olarak Trello tercih edildi.
