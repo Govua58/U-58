@@ -87,7 +87,7 @@ Zenginlik ve refah peşinde koşan ve bir paralı asker olan kahramanımız, yen
     - Oyun ismi belirlenmiştir.
     - Puan tamamlama mantığı netleştirilmiştir.
     - Portal tasarımları tamamlanmıştır.
-    - 1. sprintte tamamlanan Hub çalışmasının revize edilmesine karar verilmiştir.
+    - İlk sprintte tamamlanan Hub çalışmasının revize edilmesine karar verilmiştir.
     - Bir sonraki sprint için hangi görevlerin önceliklendirilmesi gerektiğine ve yeni görev dağılımı yapılmasına karar verilmiştir. 
     - Sprint Review Katılımcıları: Aras Berk Yıldırım, Aylin Ece Aygül, Ahmet Akçal, Aleyna Ersoy, Aşkın Gündüz.
       
