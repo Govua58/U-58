@@ -93,7 +93,7 @@ Zenginlik ve refah peşinde koşan ve bir paralı asker olan kahramanımız, yen
       
 - **Sprint Retrospective:**
     - Tamamlanmış çalışmaların birleştirilmesi 3. Sprint'e kalmıştır.
-    - Eksik NPC'ler ve oyun mekanikleri tamamlanarak oyuna entegre edilmesi önceliklendirilecektir.
+    - Eksik NPC'ler ve oyun mekaniklerinin tamamlanarak oyuna entegre edilmesi önceliklendirilecektir.
     - Oyun arayüzü çalışmaları ve harita tasarımı tamamlanacaktır.
     - Müzik, efektler ve diyaloglar gibi ses bileşenleri oyuna entegre edilecektir.
     
