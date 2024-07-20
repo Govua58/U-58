@@ -12,7 +12,7 @@ U58 Unity Takımı
 
 ## Oyun İsmi
 
-İlk Sprint için oyun ismine karar verilememiştir.
+Portal Mercenary
 
 ## Oyun Açıklaması
 
@@ -37,7 +37,7 @@ Zenginlik ve refah peşinde koşan ve bir paralı asker olan kahramanımız, yen
 
 [U58 Trello Backlog Board](https://trello.com/b/4T7hiQ06/sprint-1)
 
-# **SPRINT 1**
+# **Sprint 1**
 - **Sprint Notları**: 28.06.24 tarihinde oyun fikri ve özelliklerine karar verildi. Planlama ve görev atamaları yapıldı, proje yönetim aracı olarak Trello tercih edildi.
 - **Sprint içinde tamamlanması tahmin edilen puan**: 15 puan
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 60 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 15 puan ile başlaması gerektiğine karar verildi ve hedefe ulaşıldı.
@@ -64,3 +64,14 @@ Zenginlik ve refah peşinde koşan ve bir paralı asker olan kahramanımız, yen
     - Sprint 2'de ilk olarak oyun ismine karar verilecektir.
     - Sprint 2'de yoğun bir çalışma temposu edinilecektir.
     - Tahmin puanları gözden geçirilecek ve görev dağılımı tekrar düzenlenecektir.
+
+# **Sprint 2**
+- **Sprint Notları**: Öncelikli olarak oyun ismine karar verilecektir ve puan tamamlama mantığı netleştirilecektir. Bu sprintin odağı portal tasarımlarının bitirilmesi ve oyun mekaniklerinin belirlenmesi olarak planlanmıştır.
+- **Sprint içinde tamamlanması tahmin edilen puan**:
+- **Puan tamamlama mantığı**:
+- **Daily Scrum**: Günlük görüşmeler WhatsApp üzerinden sağlanmıştır. Ekip toplantıları haftada birkaç gün olmak üzere Discord üzerinden yapılmaya devam edilmiştir.
+  [Daily Scrum ve Toplantı Görüntüleri](https://1drv.ms/f/s!AtbTsuS_or4ygQSVac4ir-Nzr5TX)
+- **Sprint 2 board update**:
+- **Ürün Durumu**: Ekran görüntüleri:
+- **Sprint Review**: 
+- **Sprint Retrospective:**
