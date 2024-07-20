@@ -66,7 +66,7 @@ Zenginlik ve refah peşinde koşan ve bir paralı asker olan kahramanımız, yen
     - Tahmin puanları gözden geçirilecek ve görev dağılımı tekrar düzenlenecektir.
 
 # **Sprint 2**
-- **Sprint Notları**: Öncelikli olarak oyun ismine karar verilecektir ve puan tamamlama mantığı netleştirilecektir. Bu sprintin odağı portal tasarımlarının bitirilmesi ve oyun mekaniklerinin belirlenmesi olarak planlanmıştır.
+- **Sprint Notları**: Öncelikli olarak oyun ismine karar verilecektir ve puan tamamlama mantığı netleştirilecektir. Bu sprintin genel odağı portal tasarımlarının bitirilmesi ve ana oyun mekaniklerinin belirlenmesi olarak planlanmıştır.
   
 - **Sprint içinde tamamlanması tahmin edilen puan**:
   
