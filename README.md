@@ -54,7 +54,6 @@ Zenginlik ve refah peşinde koşan ve bir paralı asker olan kahramanımız, yen
   ![1](https://github.com/Govua58/U-58/assets/173603073/df63ceae-ac1c-473e-9d14-d20b1603042f)
   ![2](https://github.com/Govua58/U-58/assets/173603073/fe72cae0-fc4f-42af-8a0f-0691bb19e959)
   ![3](https://github.com/Govua58/U-58/assets/173603073/85d99bac-5272-4cda-8f3b-2873d286745a)
-  ![4](https://github.com/Govua58/U-58/assets/173603073/0602a2c7-d62a-4ddf-a2d4-b651a6438aa5)
   
 - **Sprint Review**:
     - Alınan Kararlar: WhatsApp üzerinden yürütülen daily scrumlarda daha aktif olunmasına ve toplantı gün-saatlerine daha iyi uyum sağlanması gerektiğine karar verilmiştir.
