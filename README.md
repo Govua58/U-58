@@ -39,8 +39,8 @@ Zenginlik ve refah peşinde koşan ve bir paralı asker olan kahramanımız, yen
 
 # **Sprint 1**
 - **Sprint Notları**: 28.06.24 tarihinde oyun fikri ve özelliklerine karar verildi. Planlama ve görev atamaları yapıldı, proje yönetim aracı olarak Trello tercih edildi.
-- **Sprint içinde tamamlanması tahmin edilen puan**: 15 puan
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 60 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 15 puan ile başlaması gerektiğine karar verildi ve hedefe ulaşıldı.
+- **Sprint içinde tamamlanması tahmin edilen puan**: 50 puan
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması hedeflenen 150 puanlık backlog bulunmaktadır. Her bir görevin 5 puan olmasına karar verilmiştir. Tamamlanan 12 görev sonucunda 60 puan elde edilerek ilk sprint için belirlenen min. 50 puan hedefine ulaşılmıştır. 
 - **Daily Scrum**: Daily Scrum görüşmelerinin başta Discord daha sonrasında WhatsApp üzerinden yürütülmesine karar verilmiştir. Discord'da haftada birkaç gün olmak üzere düzenli toplantılar yapılmıştır.
     - [Daily Scrum ve Toplantı Görüntüleri](https://1drv.ms/f/s!AtbTsuS_or4ybeMU0hdxjEO0nVg)
     - [Takım Asistanı ile Görüşmeler](https://1drv.ms/f/s!AtbTsuS_or4yd1ch9V3hgB6YXZ0)
@@ -67,14 +67,14 @@ Zenginlik ve refah peşinde koşan ve bir paralı asker olan kahramanımız, yen
 # **Sprint 2**
 - **Sprint Notları**: Öncelikli olarak oyun ismine karar verilecektir ve puan tamamlama mantığı netleştirilecektir. Bu sprintin genel odağı portal tasarımlarının bitirilmesi ve ana oyun mekaniklerinin belirlenmesi olarak planlanmıştır.
   
-- **Sprint içinde tamamlanması tahmin edilen puan**:
-  
-- **Puan tamamlama mantığı**:
+- **Sprint içinde tamamlanması tahmin edilen puan**: 50 puan
   
 - **Daily Scrum**: Günlük görüşmeler WhatsApp üzerinden sağlanmıştır. Ekip toplantıları haftada birkaç gün olmak üzere Discord üzerinden yapılmaya devam edilmiştir.
   [Sprint 2 - Daily Scrum ve Toplantı Görüntüleri](https://1drv.ms/f/s!AtbTsuS_or4ygQSVac4ir-Nzr5TX)
 
 - **Sprint 2 board update**: Sprint Board Screenshot: [Backlog 2](https://trello.com/b/6R40mAMw/sprint-2)
+
+    ![Trello 3](https://github.com/user-attachments/assets/4573a000-adf4-434b-81a0-786e77a89302)
 
 - **Ürün Durumu**: Ekran görüntüleri:
   
@@ -84,10 +84,13 @@ Zenginlik ve refah peşinde koşan ve bir paralı asker olan kahramanımız, yen
     ![Arena 3](https://github.com/user-attachments/assets/d6373760-8c50-4c79-8db9-2deadb7f10aa)
   
     https://github.com/user-attachments/assets/062a7552-bc56-481c-80e4-44a920a00828
-
+    <img width="1433" alt="1" src="https://github.com/user-attachments/assets/50ebb814-e54f-4e23-9222-605d6097c535">
+    <img width="1436" alt="2" src="https://github.com/user-attachments/assets/0d8507ac-95da-49be-9b07-8ba5f923846f">
+    <img width="1409" alt="3" src="https://github.com/user-attachments/assets/3a4c1c5d-3ecd-46f6-abc0-10eab45ba5de">
+    
 - **Sprint Review**:
     - Oyun ismi belirlenmiştir.
-    - Puan tamamlama mantığı netleştirilmiştir.
+    - Puan tamamlama mantığı netleştirilmiştir ve ikinci sprint için belirlenen 50 puan hedefine ulaşılmıştır.
     - Portal tasarımları tamamlanmıştır.
     - İlk sprintte tamamlanan Hub çalışmasının revize edilmesine karar verilmiştir.
     - Bir sonraki sprint için hangi görevlerin önceliklendirilmesi gerektiğine ve yeni görev dağılımı yapılmasına karar verilmiştir. 
