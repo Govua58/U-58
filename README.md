@@ -68,6 +68,8 @@ Zenginlik ve refah peşinde koşan ve bir paralı asker olan kahramanımız, yen
 - **Sprint Notları**: Öncelikli olarak oyun ismine karar verilecektir ve puan tamamlama mantığı netleştirilecektir. Bu sprintin genel odağı portal tasarımlarının bitirilmesi ve ana oyun mekaniklerinin belirlenmesi olarak planlanmıştır.
   
 - **Sprint içinde tamamlanması tahmin edilen puan**: 50 puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması hedeflenen 150 puanlık backlog bulunmaktadır. Her bir görevin 5 puan olmasına karar verilmiştir. Tamamlanan 11 görev sonucunda 55 puan elde edilerek ikinci sprint için belirlenen min. 50 puan hedefine ulaşılmıştır. 
   
 - **Daily Scrum**: Günlük görüşmeler WhatsApp üzerinden sağlanmıştır. Ekip toplantıları haftada birkaç gün olmak üzere Discord üzerinden yapılmaya devam edilmiştir.
   [Sprint 2 - Daily Scrum ve Toplantı Görüntüleri](https://1drv.ms/f/s!AtbTsuS_or4ygQSVac4ir-Nzr5TX)
