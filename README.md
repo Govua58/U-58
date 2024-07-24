@@ -87,10 +87,6 @@ Zenginlik ve refah peşinde koşan ve bir paralı asker olan kahramanımız, yen
   
     https://github.com/user-attachments/assets/062a7552-bc56-481c-80e4-44a920a00828
   
-    <img width="1433" alt="1" src="https://github.com/user-attachments/assets/50ebb814-e54f-4e23-9222-605d6097c535">
-    <img width="1436" alt="2" src="https://github.com/user-attachments/assets/0d8507ac-95da-49be-9b07-8ba5f923846f">
-    <img width="1409" alt="3" src="https://github.com/user-attachments/assets/3a4c1c5d-3ecd-46f6-abc0-10eab45ba5de">
-    
 - **Sprint Review**:
     - Oyun ismi belirlenmiştir.
     - Puan tamamlama mantığı netleştirilmiştir ve ikinci sprint için belirlenen 50 puan hedefine ulaşılmıştır.
