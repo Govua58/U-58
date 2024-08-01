@@ -12,7 +12,7 @@ U58 Unity Takımı
 
 ## Oyun İsmi
 
-Portal Mercenary
+Crystal Mercenary
 
 ## Oyun Açıklaması
 
