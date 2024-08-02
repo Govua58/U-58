@@ -126,4 +126,4 @@ Zenginlik ve refah peşinde koşan ve bir paralı asker olan kahramanımız, yen
   - Tamamlanması gereken 180 puanlık backlog puanı tamamlanmıştır.
   - Sprint Review Katılımcıları: Aras Berk Yıldırım, Aylin Ece Aygül, Ahmet Akçal, Aleyna Ersoy, Aşkın Gündüz.
 - **Sprint Retrospective:** Ekip üyeleri birbirini tebrik etti ve takım çalışmasının önemini vurgulayarak toplantımızı sonlandırdık.
-- **Asset Listesi:**
+
