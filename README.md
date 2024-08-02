@@ -23,15 +23,12 @@ Zenginlik ve refah peşinde koşan ve bir paralı asker olan kahramanımız, yen
 - 3D
 - Açık Dünya
 - First-Person
-- Platformer Ögeleri
 
 ## Hedef Kitle
 
 - Macera ve Keşif Sevenler
-- Strateji ve Planlama Sevenler
 - Hikaye Tabanlı Oyun Sevenler
 - PC Oyuncuları
-- 13+
 
 ## Product Backlog URL
 
@@ -81,9 +78,7 @@ Zenginlik ve refah peşinde koşan ve bir paralı asker olan kahramanımız, yen
 - **Ürün Durumu**: Ekran görüntüleri:
   
     ![A4](https://github.com/user-attachments/assets/30de33c0-edfd-45de-9e38-81c8d9a82cc9)
-    ![Arena 1](https://github.com/user-attachments/assets/8203df21-07d9-4fa7-8ff7-8e196725ea12)
-    ![Arena 2](https://github.com/user-attachments/assets/3ce12c26-02b1-4782-a619-f9303b939683)
-    ![Arena 3](https://github.com/user-attachments/assets/d6373760-8c50-4c79-8db9-2deadb7f10aa)
+    ![6](https://github.com/user-attachments/assets/54f06e89-ebb6-4131-ba97-7ea2e45548bb)
   
     https://github.com/user-attachments/assets/062a7552-bc56-481c-80e4-44a920a00828
   
@@ -101,3 +96,23 @@ Zenginlik ve refah peşinde koşan ve bir paralı asker olan kahramanımız, yen
     - Oyun arayüzü çalışmaları ve harita tasarımı tamamlanacaktır.
     - Müzik, efektler ve diyaloglar gibi ses bileşenleri oyuna entegre edilecektir.
     
+# **Sprint 3**
+- **Sprint Notları**:
+- **Sprint içinde tamamlanması tahmin edilen puan**:
+- **Puan tamamlama mantığı**:
+- **Daily Scrum**: Günlük görüşmeler WhatsApp üzerinden sağlanmıştır. Ekip toplantıları haftada birkaç gün olmak üzere Discord üzerinden yapılmaya devam edilmiştir.
+  [Sprint 3 - Daily Scrum ve Toplantı Görüntüleri](https://1drv.ms/f/s!AtbTsuS_or4ygQx4AISvlaLaw1yd)
+- **Sprint 3 board update**: Sprint Board Screenshot:
+- **Ürün Durumu**: Ekran görüntüleri:
+    ![4](https://github.com/user-attachments/assets/59f11503-f2ed-4ae3-8d42-99ea80d93647)
+    ![5](https://github.com/user-attachments/assets/bcbb60cc-f9c4-4710-a960-94a8ece72804)
+    ![7](https://github.com/user-attachments/assets/8a928614-36a8-4112-8c8f-ce75291a1b1a)
+    ![8](https://github.com/user-attachments/assets/5d7945e8-17b2-4deb-8471-58f63e6c14c7)
+    ![9](https://github.com/user-attachments/assets/badcb347-60ad-4c66-8487-fa94d3b36236)
+    ![10](https://github.com/user-attachments/assets/0785a4d5-8881-4107-83ee-2b42af667a64)
+    ![11](https://github.com/user-attachments/assets/9eeacb16-1795-41a0-ae86-5d71f2a24e07)
+
+- **Game Trailer:**  [Crystal Mercenary Trailer](https://youtu.be/JNFPUpKXB9I?feature=shared)
+- **Sprint Review:**
+- **Sprint Retrospective:**
+- **Asset Listesi:**
