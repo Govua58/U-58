@@ -113,6 +113,7 @@ Zenginlik ve refah peşinde koşan ve bir paralı asker olan kahramanımız, yen
     ![11](https://github.com/user-attachments/assets/9eeacb16-1795-41a0-ae86-5d71f2a24e07)
 
 - **Game Trailer:**  [Crystal Mercenary Trailer](https://youtu.be/JNFPUpKXB9I?feature=shared)
+- [![Crystal Mercenary](https://snipboard.io/EB0Qke.jpg)](https://www.youtube.com/watch?v=JNFPUpKXB9I)
 - **Sprint Review:**
 - **Sprint Retrospective:**
 - **Asset Listesi:**
