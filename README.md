@@ -36,8 +36,8 @@ Zenginlik ve refah peşinde koşan ve bir paralı asker olan kahramanımız, yen
 
 # **Sprint 1**
 - **Sprint Notları**: 28.06.24 tarihinde oyun fikri ve özelliklerine karar verildi. Planlama ve görev atamaları yapıldı, proje yönetim aracı olarak Trello tercih edildi.
-- **Sprint içinde tamamlanması tahmin edilen puan**: 50 puan
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması hedeflenen 150 puanlık backlog bulunmaktadır. Her bir görevin 5 puan olmasına karar verilmiştir. Tamamlanan 12 görev sonucunda 60 puan elde edilerek ilk sprint için belirlenen min. 50 puan hedefine ulaşılmıştır. 
+- **Sprint içinde tamamlanması tahmin edilen puan**: 60 puan
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması hedeflenen 180 puanlık backlog bulunmaktadır. Her bir görevin 5 puan olmasına karar verilmiştir. Tamamlanan 12 görev sonucunda ilk sprint için belirlenen 60 puan hedefine ulaşılmıştır. 
 - **Daily Scrum**: Daily Scrum görüşmelerinin başta Discord daha sonrasında WhatsApp üzerinden yürütülmesine karar verilmiştir. Discord'da haftada birkaç gün olmak üzere düzenli toplantılar yapılmıştır.
     - [Daily Scrum ve Toplantı Görüntüleri](https://1drv.ms/f/s!AtbTsuS_or4ybeMU0hdxjEO0nVg)
     - [Takım Asistanı ile Görüşmeler](https://1drv.ms/f/s!AtbTsuS_or4yd1ch9V3hgB6YXZ0)
@@ -66,7 +66,7 @@ Zenginlik ve refah peşinde koşan ve bir paralı asker olan kahramanımız, yen
   
 - **Sprint içinde tamamlanması tahmin edilen puan**: 50 puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması hedeflenen 150 puanlık backlog bulunmaktadır. Her bir görevin 5 puan olmasına karar verilmiştir. Tamamlanan 11 görev sonucunda 55 puan elde edilerek ikinci sprint için belirlenen min. 50 puan hedefine ulaşılmıştır. 
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması hedeflenen 180 puanlık backlog bulunmaktadır. Her bir görevin 5 puan olmasına karar verilmiştir. Tamamlanan 10 görev sonucunda 50 puan elde edilerek ikinci sprint için belirlenen puan hedefine ulaşılmıştır.
   
 - **Daily Scrum**: Günlük görüşmeler WhatsApp üzerinden sağlanmıştır. Ekip toplantıları haftada birkaç gün olmak üzere Discord üzerinden yapılmaya devam edilmiştir.
   [Sprint 2 - Daily Scrum ve Toplantı Görüntüleri](https://1drv.ms/f/s!AtbTsuS_or4ygQSVac4ir-Nzr5TX)
@@ -96,12 +96,16 @@ Zenginlik ve refah peşinde koşan ve bir paralı asker olan kahramanımız, yen
     - Diyalog sistemi oyuna entegre edilecektir.
     
 # **Sprint 3**
-- **Sprint Notları**:
-- **Sprint içinde tamamlanması tahmin edilen puan**:
-- **Puan tamamlama mantığı**:
+- **Sprint Notları**: Portal fikri yerine sahne geçişleri eklenmesine karar verildi. Tamamlanan çalışmalar birleştirildi ve eksik görevler için yeni görev dağılımı yapıldı.
+- **Sprint içinde tamamlanması tahmin edilen puan**: 70 puan
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması hedeflenen 180 puanlık backlog bulunmaktadır ve her bir görevin puanı 5 puandır. Tamamlanan 14 görev sonucunda üçüncü sprint için belirlenen 70 puan hedefine ulaşılmıştır.
 - **Daily Scrum**: Günlük görüşmeler WhatsApp üzerinden sağlanmıştır. Ekip toplantıları haftada birkaç gün olmak üzere Discord üzerinden yapılmaya devam edilmiştir.
   [Sprint 3 - Daily Scrum ve Toplantı Görüntüleri](https://1drv.ms/f/s!AtbTsuS_or4ygQx4AISvlaLaw1yd)
-- **Sprint 3 board update**: Sprint Board Screenshot:
+- **Sprint 3 board update**: Sprint Board Screenshot: [Backlog 3](https://trello.com/b/AMz5xTeW/sprint-3)
+  
+  ![trello](https://github.com/user-attachments/assets/343210c2-5e9f-4b27-a265-36709d8d96c2)
+  ![trello 2](https://github.com/user-attachments/assets/0b23d1eb-7659-4a7b-9de4-958649f2be88)
+  
 - **Ürün Durumu**: Ekran görüntüleri:
   
     ![4](https://github.com/user-attachments/assets/59f11503-f2ed-4ae3-8d42-99ea80d93647)
@@ -115,6 +119,11 @@ Zenginlik ve refah peşinde koşan ve bir paralı asker olan kahramanımız, yen
 - **Game Trailer:**  [Crystal Mercenary Trailer](https://www.youtube.com/watch?v=JjL4Yf-65z0)
   
   [![Crystal Mercenary](https://snipboard.io/EB0Qke.jpg)](https://www.youtube.com/watch?v=JjL4Yf-65z0)
+  
 - **Sprint Review:**
-- **Sprint Retrospective:**
+  - Portal sisteminden vazgeçilerek sahne geçişleri tasarlandı ve eksik görevler önceliklendirildi.
+  - Eksik mekanikler, NPC'ler, sahne geçişleri ve diyalog sistemi tamamlanarak oyun son haline getirilmiştir.
+  - Tamamlanması gereken 180 puanlık backlog puanı tamamlanmıştır.
+  - Sprint Review Katılımcıları: Aras Berk Yıldırım, Aylin Ece Aygül, Ahmet Akçal, Aleyna Ersoy, Aşkın Gündüz.
+- **Sprint Retrospective:** Ekip üyeleri birbirini tebrik etti ve takım çalışmasının önemini vurgulayarak toplantımızı sonlandırdık.
 - **Asset Listesi:**
