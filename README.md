@@ -93,8 +93,7 @@ Zenginlik ve refah peşinde koşan ve bir paralı asker olan kahramanımız, yen
 - **Sprint Retrospective:**
     - Tamamlanmış çalışmaların birleştirilmesi 3. Sprint'e kalmıştır.
     - Eksik NPC'ler ve oyun mekaniklerinin tamamlanarak oyuna entegre edilmesi önceliklendirilecektir.
-    - Oyun arayüzü çalışmaları ve harita tasarımı tamamlanacaktır.
-    - Müzik, efektler ve diyaloglar gibi ses bileşenleri oyuna entegre edilecektir.
+    - Diyalog sistemi oyuna entegre edilecektir.
     
 # **Sprint 3**
 - **Sprint Notları**:
@@ -104,6 +103,7 @@ Zenginlik ve refah peşinde koşan ve bir paralı asker olan kahramanımız, yen
   [Sprint 3 - Daily Scrum ve Toplantı Görüntüleri](https://1drv.ms/f/s!AtbTsuS_or4ygQx4AISvlaLaw1yd)
 - **Sprint 3 board update**: Sprint Board Screenshot:
 - **Ürün Durumu**: Ekran görüntüleri:
+  
     ![4](https://github.com/user-attachments/assets/59f11503-f2ed-4ae3-8d42-99ea80d93647)
     ![5](https://github.com/user-attachments/assets/bcbb60cc-f9c4-4710-a960-94a8ece72804)
     ![7](https://github.com/user-attachments/assets/8a928614-36a8-4112-8c8f-ce75291a1b1a)
